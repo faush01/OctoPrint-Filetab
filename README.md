@@ -2,6 +2,9 @@
 
 Moves the files list from the side bar to a main tab.
 
+This plugin is based on the files avialable from:
+https://gist.github.com/foosel/86157172899666cc0658
+
 ## Setup
 
 Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
